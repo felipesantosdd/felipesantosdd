@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, sou Felipe S. Oliveira</h1>
-<h3 align="center">Um apaixonado desenvolvedor Fll Stack do Brasil</h3>
+<h3 align="center">Um apaixonado desenvolvedor Full Stack do Brasil</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=felipesantosdd&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações de perfil de felipesantosdd" />
 </p>
 
-<p align="">
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=felipesantosdd" alt="Troféus do perfil de felipesantosdd" />
 </a>
@@ -19,15 +19,16 @@
 <li>⚡ Curiosidade: Eu gosto de jogar, mas isso me deixa estressado hahaahahahaha</li>
 </ul>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+<h3 align="center">Conecte-se comigo:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/felipesantosdd" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Felipe S. Oliveira" height="30" width="40" />
 </a>
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left">
+<h3 align="center" >Ferramentas:</h3>
+<div align="center" justify="center" >
+<p align="center">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
 </a>
@@ -118,10 +119,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesantosdd&show_icons=true&locale=en&layout=compact" alt="Linguagens mais usadas por felipesantosdd" />
 </p>
 
-<!-- <p>
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipesantosdd&show_icons=true&locale=en" alt="Estatísticas do GitHub de felipesantosdd" />
-</p> -->
+</p>
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipesantosdd" alt="Sequência de commits de felipesantosdd" />
 </p>
+</div>
