@@ -11,14 +11,6 @@
 </a>
 </p>
 
-<ul>
-<li>🌱 Atualmente estou me aperfeiçoando em <strong>Docker</strong> e <strong>AWS</strong></li>
-<li>💬 Pergunte-me sobre <strong>React, Next, Angular</strong> ou <strong>Node</strong></li>
-<li>📫 Como entrar em contato comigo: <a href="mailto:felipesantosdd@gmail.com">felipesantosdd@gmail.com</a></li>
-<li>📄 Conheça minhas experiências: <a href="https://www.linkedin.com/in/felipe-oliver/">LinkedIn</a></li>
-<li>⚡ Curiosidade: Eu gosto de jogar, mas isso me deixa estressado hahaahahahaha</li>
-</ul>
-
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/felipesantosdd" target="_blank">
