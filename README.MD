@@ -13,7 +13,7 @@
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/felipesantosdd" target="_blank">
+<a href="https://www.linkedin.com/in/felipe-oliver/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Felipe S. Oliveira" height="30" width="40" />
 </a>
 </p>
