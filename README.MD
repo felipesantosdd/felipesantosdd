@@ -2,14 +2,13 @@
 <h3 align="center">Um apaixonado desenvolvedor Full Stack do Brasil</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=felipesantosdd&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações de perfil de felipesantosdd" />
+<img src="https://komarev.com/ghpvc/?username=felipesantosdd&label=Profile%20views&style=flat-square&color=0e75b6&style=flat" alt="Visualizações de perfil de felipesantosdd" />
 </p>
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img align="center" justify="center" src="https://github-profile-trophy.vercel.app/?username=felipesantosdd&theme=radical&column=-1&margin-w=15" alt="Troféus do perfil de felipesantosdd" />
 </a>
-</p>
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
@@ -106,7 +105,7 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesantosdd&show_icons=true&theme=radical&locale=pt-BR&layout=compact" alt="Linguagens mais usadas por felipesantosdd" />
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipesantosdd&theme=radical&locale=pt-BR" alt="Sequência de commits de felipesantosdd" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaballerini&theme=radical&locale=pt-BR" alt="Sequência de commits de felipesantosdd" />
 </p>
 </p>
 
